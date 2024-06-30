@@ -6,6 +6,32 @@
   },
   "modules": [
     {
+      "id": "magisk-hide-props",
+      "name": "magisk hide props",
+      "version": "6.1.2",
+      "versionCode": 104113,
+      "author": "test",
+      "description": "test",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1679025505.129431,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf.git",
+        "support": "https://is.gd/osm0_",
+        "donate": "https://github.com/sponsors/osm0sis"
+      },
+      "versions": [
+        {
+          "timestamp": 1686557746.0,
+          "version": "6.1.2",
+          "versionCode": 612,
+          "zipUrl": "https://kakalak22.github.io/test-modules-magisk/modules/magisk-hide-props/MagiskHidePropsConf-v6.1.2.zip",
+          "changelog": "https://kakalak22.github.io/test-modules-magisk/modules/magisk-hide-props/readme.md"
+        }
+      ]
+    },
+    {
       "id": "zygisk-sui",
       "name": "Zygisk - Sui",
       "version": "v13.5.1",
