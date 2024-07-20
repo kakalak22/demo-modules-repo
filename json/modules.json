@@ -12,14 +12,10 @@
       "versionCode": 104113,
       "author": "test",
       "description": "test",
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": 1679025505.129431,
-        "license": "",
-        "homepage": "",
-        "source": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf.git",
-        "support": "https://is.gd/osm0_",
-        "donate": "https://github.com/sponsors/osm0sis"
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/RikkaApps/Sui.git",
+        "support": "https://github.com/RikkaApps/Sui/issues"
       },
       "versions": [
         {
