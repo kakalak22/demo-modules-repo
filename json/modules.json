@@ -1,36 +1,10 @@
 {
   "name": "Sanmer Magisk Repo (demo)",
-  "timestamp": 1719263649316,
+  "timestamp": 1721455663173,
   "metadata": {
     "homepage": "https://demo-repo.sanmer.app"
   },
   "modules": [
-    {
-      "id": "magisk-hide-props",
-      "name": "magisk hide props",
-      "version": "6.1.2",
-      "versionCode": 104113,
-      "author": "test",
-      "description": "test",
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": 1679025505.129431,
-        "license": "",
-        "homepage": "",
-        "source": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf.git",
-        "support": "https://is.gd/osm0_",
-        "donate": "https://github.com/sponsors/osm0sis"
-      },
-      "versions": [
-        {
-          "timestamp": 1686557746.0,
-          "version": "6.1.2",
-          "versionCode": 612,
-          "zipUrl": "https://kakalak22.github.io/test-modules-magisk/modules/magisk-hide-props/MagiskHidePropsConf-v6.1.2.zip",
-          "changelog": "https://kakalak22.github.io/test-modules-magisk/modules/magisk-hide-props/readme.md"
-        }
-      ]
-    },
     {
       "id": "zygisk-sui",
       "name": "Zygisk - Sui",
@@ -80,14 +54,21 @@
     {
       "id": "zygisk_shamiko",
       "name": "Shamiko",
-      "version": "v1.0.1 (300)",
-      "version_code": 300,
+      "version": "v1.1 (344)",
+      "version_code": 344,
       "author": "LSPosed Developers",
       "description": "これで勝ったと思うなよ―――!!",
       "metadata": {
         "homepage": "https://lsposed.org"
       },
       "versions": [
+        {
+          "timestamp": 1719665045000,
+          "version": "v1.1 (344)",
+          "version_code": 344,
+          "zip_url": "https://demo-repo.sanmer.app/modules/zygisk_shamiko/344.zip",
+          "changelog": "https://demo-repo.sanmer.app/modules/zygisk_shamiko/344.md"
+        },
         {
           "timestamp": 1704526399000,
           "version": "v1.0.1 (300)",
