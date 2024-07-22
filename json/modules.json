@@ -1,32 +1,10 @@
 {
   "name": "Sanmer Magisk Repo (demo)",
-  "timestamp": 1721455835286,
+  "timestamp": 1721682949167,
   "metadata": {
     "homepage": "https://demo-repo.sanmer.app"
   },
   "modules": [
-    {
-      "id": "magisk-hide-props",
-      "name": "magisk hide props",
-      "version": "6.1.2",
-      "version_code": 104113,
-      "author": "test",
-      "description": "test",
-      "metadata": {
-        "license": "GPL-3.0",
-        "source": "https://github.com/RikkaApps/Sui.git",
-        "support": "https://github.com/RikkaApps/Sui/issues"
-      },
-      "versions": [
-        {
-          "timestamp": 1686557746,
-          "version": "6.1.2",
-          "version_code": 612,
-          "zip_url": "https://kakalak22.github.io/test-modules-magisk/modules/magisk-hide-props/MagiskHidePropsConf-v6.1.2.zip",
-          "changelog": "https://kakalak22.github.io/test-modules-magisk/modules/magisk-hide-props/readme.md"
-        }
-      ]
-    },
     {
       "id": "zygisk-sui",
       "name": "Zygisk - Sui",
