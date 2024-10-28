@@ -2,12 +2,19 @@
   "module": {
     "id": "zygisksu",
     "name": "Zygisk Next",
-    "version": "1.2.1.1 (430-34842cb-release)",
-    "version_code": 430,
+    "version": "1.2.3 (441-6843192-release)",
+    "version_code": 441,
     "author": "Nullptr, 5ec1cff",
     "description": "Standalone implementation of Zygisk."
   },
   "versions": [
+    {
+      "timestamp": 1729875013000,
+      "version": "1.2.3 (441-6843192-release)",
+      "version_code": 441,
+      "zip_file": "441.zip",
+      "changelog": "441.md"
+    },
     {
       "timestamp": 1729434202000,
       "version": "1.2.1.1 (430-34842cb-release)",
