@@ -2,12 +2,19 @@
   "module": {
     "id": "zygisksu",
     "name": "Zygisk Next",
-    "version": "1.2.6 (485-ca2c5c0-release)",
-    "version_code": 485,
+    "version": "1.2.7 (497-b7796a7-release)",
+    "version_code": 497,
     "author": "5ec1cff, Nullptr",
     "description": "Standalone implementation of Zygisk."
   },
   "versions": [
+    {
+      "timestamp": 1737269205000,
+      "version": "1.2.7 (497-b7796a7-release)",
+      "version_code": 497,
+      "zip_file": "497.zip",
+      "changelog": "497.md"
+    },
     {
       "timestamp": 1735825712000,
       "version": "1.2.6 (485-ca2c5c0-release)",
@@ -42,13 +49,6 @@
       "version_code": 430,
       "zip_file": "430.zip",
       "changelog": "430.md"
-    },
-    {
-      "timestamp": 1721836521000,
-      "version": "1.1.0 (330-a1b0e69-release)",
-      "version_code": 330,
-      "zip_file": "330.zip",
-      "changelog": "330.md"
     }
   ]
 }
