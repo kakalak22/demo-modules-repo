@@ -1,6 +1,6 @@
 {
   "name": "Sanmer Magisk Repo (demo)",
-  "timestamp": 1775511506523,
+  "timestamp": 1776117044785,
   "metadata": {
     "homepage": "https://demo-repo.sanmer.app"
   },
@@ -81,8 +81,8 @@
     {
       "id": "zygisksu",
       "name": "Zygisk Next",
-      "version": "1.3.3 (731-1193e46-release)",
-      "version_code": 731,
+      "version": "1.3.4 (746-d1b76b3-release)",
+      "version_code": 746,
       "author": "5ec1cff, Nullptr",
       "description": "Standalone implementation of Zygisk.",
       "metadata": {
@@ -90,6 +90,13 @@
         "support": "https://github.com/Dr-TSNG/ZygiskNext/issues"
       },
       "versions": [
+        {
+          "timestamp": 1775635794000,
+          "version": "1.3.4 (746-d1b76b3-release)",
+          "version_code": 746,
+          "zip_url": "https://demo-repo.sanmer.app/modules/zygisksu/746.zip",
+          "changelog": "https://demo-repo.sanmer.app/modules/zygisksu/746.md"
+        },
         {
           "timestamp": 1774139800000,
           "version": "1.3.3 (731-1193e46-release)",
@@ -124,13 +131,6 @@
           "version_code": 638,
           "zip_url": "https://demo-repo.sanmer.app/modules/zygisksu/638.zip",
           "changelog": "https://demo-repo.sanmer.app/modules/zygisksu/638.md"
-        },
-        {
-          "timestamp": 1760111643000,
-          "version": "1.3.0-RC3 (620-316eada-release)",
-          "version_code": 620,
-          "zip_url": "https://demo-repo.sanmer.app/modules/zygisksu/620.zip",
-          "changelog": "https://demo-repo.sanmer.app/modules/zygisksu/620.md"
         }
       ]
     }
