@@ -2,12 +2,19 @@
   "module": {
     "id": "zygisksu",
     "name": "Zygisk Next",
-    "version": "1.4.3 (817-e815170-release)",
-    "version_code": 817,
+    "version": "1.4.4 (831-98fd9c6-release)",
+    "version_code": 831,
     "author": "5ec1cff, Nullptr, aviraxp",
     "description": "Standalone implementation of Zygisk."
   },
   "versions": [
+    {
+      "timestamp": 1785584537000,
+      "version": "1.4.4 (831-98fd9c6-release)",
+      "version_code": 831,
+      "zip_file": "831.zip",
+      "changelog": "831.md"
+    },
     {
       "timestamp": 1784202620000,
       "version": "1.4.3 (817-e815170-release)",
@@ -42,13 +49,6 @@
       "version_code": 688,
       "zip_file": "688.zip",
       "changelog": "688.md"
-    },
-    {
-      "timestamp": 1763287283000,
-      "version": "1.3.1 (665-7e5b533-release)",
-      "version_code": 665,
-      "zip_file": "665.zip",
-      "changelog": "665.md"
     }
   ]
 }
