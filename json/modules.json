@@ -1,6 +1,6 @@
 {
   "name": "Sanmer Magisk Repo (demo)",
-  "timestamp": 1786398040635,
+  "timestamp": 1787001907566,
   "metadata": {
     "homepage": "https://demo-repo.sanmer.app"
   },
@@ -29,11 +29,11 @@
     },
     {
       "id": "zygisk_lsposed",
-      "name": "Zygisk - LSPosed",
-      "version": "v1.9.2 (7024)",
-      "version_code": 7024,
+      "name": "LSPosed",
+      "version": "v2.1.1 (7790)",
+      "version_code": 7790,
       "author": "LSPosed Developers",
-      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Magisk 24.0+ and Zygisk enabled.",
+      "description": "Another enhanced implementation of Xposed Framework. Supports Android 9 ~ 17. Requires Zygisk enabled.",
       "metadata": {
         "license": "GPL-3.0",
         "homepage": "https://lsposed.org",
@@ -42,6 +42,13 @@
         "support": "https://github.com/LSPosed/LSPosed/issues"
       },
       "versions": [
+        {
+          "timestamp": 1785905766000,
+          "version": "v2.1.1 (7790)",
+          "version_code": 7790,
+          "zip_url": "https://demo-repo.sanmer.app/modules/zygisk_lsposed/7790.zip",
+          "changelog": "https://demo-repo.sanmer.app/modules/zygisk_lsposed/7790.md"
+        },
         {
           "timestamp": 1697034252000,
           "version": "v1.9.2 (7024)",
